@@ -1,0 +1,17 @@
+{
+  "advancements.adventure.summon_iron_golem.description": "Summon an Village Golem to help defend a village",
+  "entity.minecraft.iron_golem": "Village Golem",
+  "item.minecraft.iron_golem_spawn_egg": "Village Golem Spawn Egg",
+  "subtitles.entity.iron_golem.attack": "Village Golem attacks",
+  "subtitles.entity.iron_golem.damage": "Village Golem breaks",
+  "subtitles.entity.iron_golem.death": "Village Golem dies",
+  "subtitles.entity.iron_golem.hurt": "Village Golem hurts",
+  "subtitles.entity.iron_golem.repair": "Village Golem repaired",
+  "item.minecraft.iron_boots": "Copper Boots",
+  "item.minecraft.iron_chestplate": "Copper Chestplate",
+  "item.minecraft.iron_helmet": "Copper Helmet",
+  "item.minecraft.iron_leggings": "Copper Leggings",
+  "subtitles.item.armor.equip_iron": "Copper armor clanks",
+  "advancements.story.obtain_armor.description": "Protect yourself with a piece of copper armor",
+  "itemgroup.proper_copper": "Proper Copper"
+}

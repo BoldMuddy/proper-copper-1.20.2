@@ -3,7 +3,7 @@
 	"package": "net.muddy.propercopper.mixin",
 	"compatibilityLevel": "JAVA_17",
 	"mixins": [
-		"ExampleMixin"
+		"CarvedPumpkinBlockMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1

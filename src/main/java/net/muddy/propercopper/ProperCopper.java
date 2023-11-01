@@ -2,6 +2,7 @@ package net.muddy.propercopper;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.muddy.propercopper.item.ModItemGroups;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -16,6 +17,6 @@ public class ProperCopper implements ModInitializer {
 		// However, some things (like resources) may still be uninitialized.
 		// Proceed with mild caution.
 
-		LOGGER.info("Hello Fabric world!");
+		ModItemGroups.registerItemGroups();
 	}
 }
